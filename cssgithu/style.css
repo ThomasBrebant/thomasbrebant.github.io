@@ -1,1 +1,43 @@
+body {
+ font-family: sans-serif;
+text-shadow: 2px 2px 4px black;
+  background-color: #87CEEB;
+ font-style: italic;
+ background-image:linear-gradient(to right,white,#87CEEB);
+margin-left: 100px;
+margin-right:100px;
+  
+  
+}
 
+h1 {
+ font-size: 200%;  
+ text-align: center;
+ }
+
+nav, section {
+  border: solid thin;
+  border-radius: 6px;
+  padding: 1ex;
+  margin: 2ex;
+}
+footer {
+  width: 95%;
+  margin: 2em auto;
+  border-top: solid thin;
+}
+.flotte {
+float:left;
+}
+IMG.center
+ {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+	}
+IMG.right
+{
+ display: block;
+    margin-left: auto;
+    margin-right: auto;
+ 
