@@ -1,0 +1,62 @@
+<html>
+	     <head>
+		    <meta charset="utf-8"/>
+	        
+			<title>Mon CV</title>
+	        
+			 <link rel='stylesheet' href='cssgithub/style.css' type='text/css' />
+		 </head>
+		
+	 <body>
+	 
+	 
+	 <link		 rel='stylesheet' href='css/style.css' type='text/css' />
+
+	
+
+	 <header>
+	
+	       <h1><b class=sa>Mon CV </b></h1>
+
+		   </header>
+	    
+		 <section id"Formation">
+	<h1>FORMATION</h1>
+	2013-2014-BACHELOR 1 AMOS  Ecole Commerce sp&eacute;cialis&eacute;e Sport Business.   <br />                                    
+	2013-Baccalaur&eacute;at Scientifique Sp&eacute;cialit&eacute; Sciences de la Vie et de la Terre.<br />
+	</section>
+
+	<section id="Langues">
+	<h1>Langues</h1>
+	Anglais-Niveau interm&eacute;diaire (B1) - S&eacute;jour d&lsquo;une semaine &agrave; Londres en Septembre 2013 avec cours &agrave; Isis School  <br />
+	Espagnol-Niveau d&eacute;butant - S&eacute;jour d&lsquo;une semaine &agrave; Barcelone en juillet 2013.<br />
+	</section>
+
+ 	<section id"Experiences-professionnelles">
+	<h1>Experiences-professionnelles</h1>
+	2010 H&ocirc;tel Mercure-Accueil des clients<br />
+D&eacute;c 2013- janv 2014-Vendeur cycle &agrave; DECATHLON V&eacute;lizy<br /> 
+2010-2013-Participation &agrave; divers forums d&lsquo;informations au profit du CSM Clamart Cyclisme 92<br />
+	</section>
+
+ 	<section id"ACTIVITES-PERSONNELLES">
+	<h1>Activit&eacute;s personnelles</h1>
+	Cyclisme sur route
+<br />
+Participation aux championnats de France 2013, 2014
+<br />
+Vainqueur d'une course UCI Internationale Junior en 2013 (Li&egrave;ge-La Gleize)
+<br />
+6 victoires en 2014
+<br />
+Pr&eacute;sent sur la liste des ESPOIRS SPORTIFS DE HAUT NIVEAU en 2013, 2014 et en 2015
+<br />
+Membre de l'&eacute;quipe de Division Nationale 2 pour la saison 2015, le Team Peltrax CSD
+<br />
+</section>
+<a href= "index.html">Accueil</a>
+
+<footer>Copyright Thomas Brebant 2015</footer>
+	   
+	 </body>
+	</html>
